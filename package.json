@@ -1,0 +1,27 @@
+{
+  "name": "chkanyDoor",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "chkanydoor": "npm/npm.js"
+  },
+  "main": ".eslintrc.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenhongkang/anyDoor.git"
+  },
+  "keywords": [],
+  "author": "chenhongkang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenhongkang/anyDoor/issues"
+  },
+  "homepage": "https://github.com/chenhongkang/anyDoor#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "yargs": "^15.0.2"
+  }
+}
